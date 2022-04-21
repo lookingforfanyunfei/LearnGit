@@ -5,6 +5,8 @@ Git has a mutable index called stage.
 
 Git tracks changes of files.
 
-Git tracks files.
+Git tracks new files.
+
+
 
 Git is free software.
