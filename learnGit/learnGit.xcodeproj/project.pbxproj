@@ -56,6 +56,7 @@
 		0F9508E428112E1300EAE538 /* learnGitUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = learnGitUITestsLaunchTests.m; sourceTree = "<group>"; };
 		0F9508F22811301600EAE538 /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 		0F9508F32811357200EAE538 /* readme1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme1.txt; sourceTree = "<group>"; };
+		0F9508F62812A9EC00EAE538 /* mySelfReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = mySelfReadMe.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 				0F9508C228112E1200EAE538 /* ViewController.h */,
 				0F9508C328112E1200EAE538 /* ViewController.m */,
 				0F9508F22811301600EAE538 /* readme.txt */,
+				0F9508F62812A9EC00EAE538 /* mySelfReadMe.txt */,
 				0F9508F32811357200EAE538 /* readme1.txt */,
 				0F9508C528112E1200EAE538 /* Main.storyboard */,
 				0F9508C828112E1300EAE538 /* Assets.xcassets */,
