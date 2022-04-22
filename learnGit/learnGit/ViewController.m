@@ -16,9 +16,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    
-    
-    // 我是另外一个小伙伴，不要打扰我
 }
 
 
