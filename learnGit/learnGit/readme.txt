@@ -8,4 +8,6 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 
 Creating dev branch for testing add merge.
+
+Creating dev branch for testing fast forward.
 Git is free software.
