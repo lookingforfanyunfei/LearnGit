@@ -12,4 +12,4 @@ Creating dev branch for testing add merge.
 Creating dev branch for testing fast forward.
 
 Creating dev branch for testing no fast forward.
-Git is free software.
+Git is a free software.
