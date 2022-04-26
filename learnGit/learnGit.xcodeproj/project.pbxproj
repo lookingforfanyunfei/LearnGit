@@ -17,6 +17,7 @@
 		0F9508D928112E1300EAE538 /* learnGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9508D828112E1300EAE538 /* learnGitTests.m */; };
 		0F9508E328112E1300EAE538 /* learnGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9508E228112E1300EAE538 /* learnGitUITests.m */; };
 		0F9508E528112E1300EAE538 /* learnGitUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9508E428112E1300EAE538 /* learnGitUITestsLaunchTests.m */; };
+		0F9508FF2817E2EB00EAE538 /* chubbyfacecat.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9508FE2817E2EA00EAE538 /* chubbyfacecat.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,8 @@
 		0F9508F32811357200EAE538 /* readme1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme1.txt; sourceTree = "<group>"; };
 		0F9508F62812A9EC00EAE538 /* mySelfReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = mySelfReadMe.txt; sourceTree = "<group>"; };
 		0F9508F92817D3E800EAE538 /* chubbyfacecat.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = chubbyfacecat.txt; sourceTree = "<group>"; };
+		0F9508FD2817E2EA00EAE538 /* chubbyfacecat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = chubbyfacecat.h; sourceTree = "<group>"; };
+		0F9508FE2817E2EA00EAE538 /* chubbyfacecat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = chubbyfacecat.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 				0F9508C028112E1200EAE538 /* SceneDelegate.m */,
 				0F9508C228112E1200EAE538 /* ViewController.h */,
 				0F9508C328112E1200EAE538 /* ViewController.m */,
+				0F9508FD2817E2EA00EAE538 /* chubbyfacecat.h */,
+				0F9508FE2817E2EA00EAE538 /* chubbyfacecat.m */,
 				0F9508F92817D3E800EAE538 /* chubbyfacecat.txt */,
 				0F9508F22811301600EAE538 /* readme.txt */,
 				0F9508F62812A9EC00EAE538 /* mySelfReadMe.txt */,
@@ -276,6 +281,7 @@
 			files = (
 				0F9508C428112E1200EAE538 /* ViewController.m in Sources */,
 				0F9508BE28112E1200EAE538 /* AppDelegate.m in Sources */,
+				0F9508FF2817E2EB00EAE538 /* chubbyfacecat.m in Sources */,
 				0F9508CF28112E1300EAE538 /* main.m in Sources */,
 				0F9508C128112E1200EAE538 /* SceneDelegate.m in Sources */,
 			);
