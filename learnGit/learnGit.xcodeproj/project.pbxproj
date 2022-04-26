@@ -57,6 +57,7 @@
 		0F9508F22811301600EAE538 /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 		0F9508F32811357200EAE538 /* readme1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme1.txt; sourceTree = "<group>"; };
 		0F9508F62812A9EC00EAE538 /* mySelfReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = mySelfReadMe.txt; sourceTree = "<group>"; };
+		0F9508F92817D3E800EAE538 /* chubbyfacecat.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = chubbyfacecat.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 				0F9508C028112E1200EAE538 /* SceneDelegate.m */,
 				0F9508C228112E1200EAE538 /* ViewController.h */,
 				0F9508C328112E1200EAE538 /* ViewController.m */,
+				0F9508F92817D3E800EAE538 /* chubbyfacecat.txt */,
 				0F9508F22811301600EAE538 /* readme.txt */,
 				0F9508F62812A9EC00EAE538 /* mySelfReadMe.txt */,
 				0F9508F32811357200EAE538 /* readme1.txt */,
